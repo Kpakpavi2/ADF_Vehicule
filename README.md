@@ -12,7 +12,7 @@ This project implements a real-time data ingestion pipeline that validates and i
   - ✅ Valid files → `staging/`
   - ❌ Invalid files → `rejected/`
 - 🔄 **Orchestration:** Azure Data Factory (ADF) triggers on new files
-- 🧱 **Transformation:** Databricks processes data and inserts into SQL table
+- 🧱 **STORAGE EVENT TRIGGER:** ADF processes data and inserts into SQL table after a file is triggered in the staging folder
 
 ---
 
