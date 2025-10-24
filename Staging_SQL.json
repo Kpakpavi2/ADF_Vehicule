@@ -1,0 +1,126 @@
+{
+    "name": "STAGING TO SQL",
+    "properties": {
+        "description": "This pipeline gets the data from the staging folder and send it to the SQL Server for logging. ",
+        "activities": [
+            {
+                "name": "STAGING TO SQL",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [
+                    {
+                        "name": "Source",
+                        "value": "input/staging/"
+                    },
+                    {
+                        "name": "Destination",
+                        "value": "dbo.VehiculeData"
+                    }
+                ],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "AzureBlobStorageReadSettings",
+                            "recursive": true,
+                            "wildcardFileName": "*.json",
+                            "enablePartitionDiscovery": false
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "sink": {
+                        "type": "AzureSqlSink",
+                        "writeBehavior": "insert",
+                        "sqlWriterUseTableLock": false,
+                        "disableMetricsCollection": false
+                    },
+                    "enableStaging": false,
+                    "translator": {
+                        "type": "TabularTranslator",
+                        "mappings": [
+                            {
+                                "source": {
+                                    "path": "$['VehicleID']"
+                                },
+                                "sink": {
+                                    "name": "VehiculeID",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['latitiude']"
+                                },
+                                "sink": {
+                                    "name": "Latitude",
+                                    "type": "Decimal"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['longitude']"
+                                },
+                                "sink": {
+                                    "name": "Longitude",
+                                    "type": "Decimal"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['City']"
+                                },
+                                "sink": {
+                                    "name": "City",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['temeprature']"
+                                },
+                                "sink": {
+                                    "name": "Temperature",
+                                    "type": "Int32"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['speed']"
+                                },
+                                "sink": {
+                                    "name": "Speed",
+                                    "type": "Int32"
+                                }
+                            }
+                        ],
+                        "collectionReference": ""
+                    }
+                },
+                "inputs": [
+                    {
+                        "referenceName": "Json1",
+                        "type": "DatasetReference"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "VehiculeDS",
+                        "type": "DatasetReference"
+                    }
+                ]
+            }
+        ],
+        "annotations": [],
+        "lastPublishTime": "2025-10-24T01:31:21Z"
+    },
+    "type": "Microsoft.DataFactory/factories/pipelines"
+}

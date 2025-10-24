@@ -1,0 +1,71 @@
+{
+    "name": "Vehicule_project",
+    "properties": {
+        "activities": [
+            {
+                "name": "Get Data Into Landing",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "AzureBlobFSReadSettings",
+                            "recursive": true,
+                            "wildcardFileName": "*.json",
+                            "enablePartitionDiscovery": false
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "sink": {
+                        "type": "JsonSink",
+                        "storeSettings": {
+                            "type": "AzureBlobStorageWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "JsonWriteSettings"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "External_DS",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "folderpath": {
+                                "value": "@concat( formatDateTime(utcNow(),'yyyy'), '/' , formatDateTime(utcNow(),'MM'), '/' , formatDateTime(utcNow(),'dd'), '/')",
+                                "type": "Expression"
+                            }
+                        }
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "Landing_DS",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "folderpath": {
+                                "value": "@concat('Landing', '/' , formatDateTime(utcNow(),'yyyy'), '/' , formatDateTime(utcNow(),'MM'), '/' , formatDateTime(utcNow(),'dd'), '/')",
+                                "type": "Expression"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "annotations": [],
+        "lastPublishTime": "2025-07-27T07:06:48Z"
+    },
+    "type": "Microsoft.DataFactory/factories/pipelines"
+}
