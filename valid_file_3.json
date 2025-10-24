@@ -1,0 +1,162 @@
+[
+  {
+    "VehicleID": "4c578581-31ee-427a-92d6-f41a57efc37c",
+    "Latitude": 80.543111578005,
+    "Longitude": 131.310264935047,
+    "City": "South Craig",
+    "Speed": 133,
+    "Temperature": 8
+  },
+  {
+    "VehicleID": "93fe1464-8a3c-4ba4-95dc-0a11537f3413",
+    "Latitude": 52.358488966218,
+    "Longitude": -88.011675146694,
+    "City": "Thomasborough",
+    "Speed": 68,
+    "Temperature": 91
+  },
+  {
+    "VehicleID": "e6361723-19a2-4279-b09f-79a0e87e7e6e",
+    "Latitude": 67.186585592626,
+    "Longitude": -6.167151564166,
+    "City": "East Nichole",
+    "Speed": 43,
+    "Temperature": 68
+  },
+  {
+    "VehicleID": "1f8a1126-4103-4060-b2e3-352cc78f6753",
+    "Latitude": 9.121881062519,
+    "Longitude": -76.031480058689,
+    "City": "East Brianside",
+    "Speed": 160,
+    "Temperature": 35
+  },
+  {
+    "VehicleID": "9d9d0561-4afd-4c1a-870a-50bcd132dad4",
+    "Latitude": -72.232838120682,
+    "Longitude": -146.07415864759,
+    "City": "West Nathanbury",
+    "Speed": 169,
+    "Temperature": 49
+  },
+  {
+    "VehicleID": "906adbce-aab7-497a-be07-dec7ac3f7918",
+    "Latitude": -52.092606230269,
+    "Longitude": -22.290525187658,
+    "City": "Scottfurt",
+    "Speed": 5,
+    "Temperature": 65
+  },
+  {
+    "VehicleID": "f6b47245-2805-4431-bb1f-5f69dbefbcb8",
+    "Latitude": 76.464238074715,
+    "Longitude": 49.091064400281,
+    "City": "West Charlene",
+    "Speed": 56,
+    "Temperature": 67
+  },
+  {
+    "VehicleID": "5aee1416-a8eb-47a0-97dd-404d61295f2c",
+    "Latitude": 29.215383563551,
+    "Longitude": 39.407185803896,
+    "City": "Carolynport",
+    "Speed": 118,
+    "Temperature": 34
+  },
+  {
+    "VehicleID": "63367eaa-4b1a-429e-ad52-bb22f72ab65e",
+    "Latitude": 25.03456201155,
+    "Longitude": -166.052018047889,
+    "City": "Lake Heidi",
+    "Speed": 73,
+    "Temperature": 8
+  },
+  {
+    "VehicleID": "9f5b1af8-43b2-4c4c-92b7-9ee316fc2367",
+    "Latitude": -46.80627893279,
+    "Longitude": 115.168615056981,
+    "City": "Lake Chad",
+    "Speed": 50,
+    "Temperature": 21
+  },
+  {
+    "VehicleID": "0d92d6aa-d11e-4f00-8377-3b68b9c283a1",
+    "Latitude": -22.598867578401,
+    "Longitude": -18.23452917185,
+    "City": "West Toddfort",
+    "Speed": 28,
+    "Temperature": 36
+  },
+  {
+    "VehicleID": "943ed01f-e485-4d3a-942a-5ee261a5ac84",
+    "Latitude": 60.216709491002,
+    "Longitude": -24.190687216087,
+    "City": "North Robertshire",
+    "Speed": 90,
+    "Temperature": 66
+  },
+  {
+    "VehicleID": "309e3411-4b49-4b12-bb7f-2a2d117448e9",
+    "Latitude": -28.538272712081,
+    "Longitude": -166.696910957008,
+    "City": "New Joshua",
+    "Speed": 177,
+    "Temperature": -5
+  },
+  {
+    "VehicleID": "e6c76fa8-2a84-4066-a6ce-9c59598576af",
+    "Latitude": 25.018340478718,
+    "Longitude": -97.070626832636,
+    "City": "Christyport",
+    "Speed": 84,
+    "Temperature": 79
+  },
+  {
+    "VehicleID": "08086363-a9fe-45cc-b17c-6345a4a3c9d3",
+    "Latitude": 54.871977856373,
+    "Longitude": -86.131307322876,
+    "City": "East Sabrina",
+    "Speed": 130,
+    "Temperature": 65
+  },
+  {
+    "VehicleID": "678bb74e-46a6-4ba3-af5e-55cddb564bc4",
+    "Latitude": 28.368348753806,
+    "Longitude": -31.264104455435,
+    "City": "South Tracy",
+    "Speed": 166,
+    "Temperature": 96
+  },
+  {
+    "VehicleID": "b89b1bba-8ca6-4e0c-a7ae-45292ce4783c",
+    "Latitude": -55.186490294192,
+    "Longitude": 96.901088271993,
+    "City": "Popehaven",
+    "Speed": 97,
+    "Temperature": -6
+  },
+  {
+    "VehicleID": "342fcb09-b654-4847-822b-cfa76787cefb",
+    "Latitude": -9.859137128369,
+    "Longitude": -21.345227965342,
+    "City": "East Colin",
+    "Speed": 184,
+    "Temperature": 113
+  },
+  {
+    "VehicleID": "7e8b625f-d87d-4a94-987f-4a1d46c44fff",
+    "Latitude": -66.566733255198,
+    "Longitude": 9.819159186196,
+    "City": "South Tanyafurt",
+    "Speed": 175,
+    "Temperature": 7
+  },
+  {
+    "VehicleID": "3f4bc02a-2b7d-4931-95a7-4911b63c8063",
+    "Latitude": -6.68556936922,
+    "Longitude": 110.971501849129,
+    "City": "Simpsonburgh",
+    "Speed": 67,
+    "Temperature": 93
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VehicleID": "149e4675-6483-4e74-8d93-60362d9586f2",
+    "Latitude": 20.846481605283,
+    "Longitude": 54.915307415176,
+    "City": "Port Jordan",
+    "Speed": 180,
+    "Temperature": 78
+  },
+  {
+    "VehicleID": "13dfbb92-5802-432d-b095-f3eeb0c95101",
+    "Latitude": 87.319879657295,
+    "Longitude": -19.62302649452,
+    "City": "Donnaville",
+    "Speed": 7,
+    "Temperature": -1
+  },
+  {
+    "VehicleID": "514119fe-2bcb-4875-8012-0ca9f62afb43",
+    "Latitude": 80.880541613542,
+    "Longitude": 37.769712191961,
+    "City": "West Brandonville",
+    "Speed": 86,
+    "Temperature": 103
+  },
+  {
+    "VehicleID": "409bc351-e2cd-4eec-922b-01e8b1e17e2b",
+    "Latitude": -17.794403735078,
+    "Longitude": -87.060387808732,
+    "City": "Briantown",
+    "Speed": 113,
+    "Temperature": 34
+  },
+  {
+    "VehicleID": "51cdf063-2237-48dc-9258-4b64d677124b",
+    "Latitude": 45.7254688681,
+    "Longitude": -83.972880024863,
+    "City": "North Thomasborough",
+    "Speed": 198,
+    "Temperature": -10
+  },
+  {
+    "VehicleID": "dd02aa0f-2a39-40b7-87fa-4f5938dfffa2",
+    "Latitude": -37.032926073907,
+    "Longitude": -84.244141482786,
+    "City": "Lake Anthonyhaven",
+    "Speed": 33,
+    "Temperature": 34
+  },
+  {
+    "VehicleID": "bf1440af-d6fc-4234-816c-d51d9581ec49",
+    "Latitude": -1.828587494634,
+    "Longitude": 82.186678151505,
+    "City": "Lake Holly",
+    "Speed": 44,
+    "Temperature": -13
+  },
+  {
+    "VehicleID": "473c1d5f-5231-4946-bf71-40ee83712586",
+    "Latitude": -65.375264845955,
+    "Longitude": 149.741721186037,
+    "City": "North Justin",
+    "Speed": 58,
+    "Temperature": 105
+  },
+  {
+    "VehicleID": "9bb36667-5330-4fca-8dcf-d991419c4f3e",
+    "Latitude": -30.942094734332,
+    "Longitude": -94.101791115648,
+    "City": "Port Elizabeth",
+    "Speed": 159,
+    "Temperature": 27
+  },
+  {
+    "VehicleID": "cbb81b9f-fbad-4a62-9d72-c669a2d09e3f",
+    "Latitude": -74.011521690999,
+    "Longitude": 88.014307154994,
+    "City": "South Paulton",
+    "Speed": 140,
+    "Te

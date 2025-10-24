@@ -1,0 +1,162 @@
+[
+  {
+    "VehicleID": "6ea6c9d9-dd55-408a-b5a2-468711f08322",
+    "Latitude": -77.778823166193,
+    "Longitude": -70.873794576247,
+    "City": "South Jessica",
+    "Speed": 112,
+    "Temperature": 42
+  },
+  {
+    "VehicleID": "c91f84b9-4ec4-4aa7-8601-34871f4b4194",
+    "Latitude": 71.909054216389,
+    "Longitude": -60.322110497553,
+    "City": "Deborahburgh",
+    "Speed": 126,
+    "Temperature": -20
+  },
+  {
+    "VehicleID": "91e7601a-e851-45f7-b1f3-051641b89ded",
+    "Latitude": -88.764164857423,
+    "Longitude": 130.590900877759,
+    "City": "West Holly",
+    "Speed": 121,
+    "Temperature": 32
+  },
+  {
+    "VehicleID": "4319ee22-2155-47c4-b9af-ca664a1834f4",
+    "Latitude": -71.878665299727,
+    "Longitude": 80.044283189134,
+    "City": "Lake Linda",
+    "Speed": 2,
+    "Temperature": 96
+  },
+  {
+    "VehicleID": "59cd85e3-d33a-450d-bf20-88eae104b2c0",
+    "Latitude": 28.072929119646,
+    "Longitude": -23.483528798633,
+    "City": "Johnport",
+    "Speed": 99,
+    "Temperature": 82
+  },
+  {
+    "VehicleID": "f8ee6223-9ab1-4c62-bfd4-c14f534bfb3e",
+    "Latitude": -18.737094572974,
+    "Longitude": -127.387396144611,
+    "City": "Andersonchester",
+    "Speed": 4,
+    "Temperature": 59
+  },
+  {
+    "VehicleID": "60c4f6ce-3ff4-4b9c-85e3-6f78bccbd3ed",
+    "Latitude": -48.622918634542,
+    "Longitude": -98.902564789364,
+    "City": "Petersonhaven",
+    "Speed": 87,
+    "Temperature": 110
+  },
+  {
+    "VehicleID": "f1c1e5c7-2be7-4184-a285-cb922799f5fe",
+    "Latitude": 80.994094429818,
+    "Longitude": -57.71302245291,
+    "City": "South Todd",
+    "Speed": 70,
+    "Temperature": 61
+  },
+  {
+    "VehicleID": "d31ab1c1-765d-4dad-bab1-84f718b84d0e",
+    "Latitude": -9.501933632826,
+    "Longitude": -141.495250490741,
+    "City": "South Georgeland",
+    "Speed": 26,
+    "Temperature": 15
+  },
+  {
+    "VehicleID": "c261666f-a676-4442-adc5-5ddca41518c7",
+    "Latitude": 42.278569119206,
+    "Longitude": -59.207423285897,
+    "City": "Oliviafurt",
+    "Speed": 48,
+    "Temperature": -10
+  },
+  {
+    "VehicleID": "2aaa3394-7028-40cd-9d3d-9a7ab7042660",
+    "Latitude": 45.714320239483,
+    "Longitude": 119.151386579874,
+    "City": "East Aaron",
+    "Speed": 92,
+    "Temperature": 84
+  },
+  {
+    "VehicleID": "61d95dbb-59f0-4118-b37e-afbc0b49a311",
+    "Latitude": 53.194765392633,
+    "Longitude": -22.455715094097,
+    "City": "Port Randallport",
+    "Speed": 161,
+    "Temperature": 40
+  },
+  {
+    "VehicleID": "66dedf51-3016-4247-b9db-418ffc1e7520",
+    "Latitude": -24.388869674023,
+    "Longitude": 38.722649546397,
+    "City": "Gabrielland",
+    "Speed": 100,
+    "Temperature": -20
+  },
+  {
+    "VehicleID": "6050437d-40d3-474c-9535-284cf20d6f45",
+    "Latitude": 18.165437130417,
+    "Longitude": -128.511618295463,
+    "City": "West Georgestad",
+    "Speed": 5,
+    "Temperature": 19
+  },
+  {
+    "VehicleID": "010289b3-d0cf-4b04-a436-cd511113ae03",
+    "Latitude": 12.893937287249,
+    "Longitude": 146.755258197145,
+    "City": "West Ronaldborough",
+    "Speed": 10,
+    "Temperature": 82
+  },
+  {
+    "VehicleID": "42fa6ab0-4882-4f5f-9a4f-bafbf504a493",
+    "Latitude": 79.431692934075,
+    "Longitude": 11.6628790719,
+    "City": "Bellside",
+    "Speed": 36,
+    "Temperature": 13
+  },
+  {
+    "VehicleID": "2e1b26b2-b451-4d17-a28e-41edb5f7b20e",
+    "Latitude": 69.696828670051,
+    "Longitude": 62.952623728465,
+    "City": "Lake Cassidyberg",
+    "Speed": 109,
+    "Temperature": 111
+  },
+  {
+    "VehicleID": "a1b8d1a3-1393-4caa-84da-2f043edc56b4",
+    "Latitude": 73.752725919561,
+    "Longitude": -177.687360254839,
+    "City": "Emilytown",
+    "Speed": 5,
+    "Temperature": 36
+  },
+  {
+    "VehicleID": "f03640d8-d22d-4ba0-9856-4d08a7ea50f3",
+    "Latitude": 46.001802469561,
+    "Longitude": 51.554360243145,
+    "City": "Erinbury",
+    "Speed": 197,
+    "Temperature": 27
+  },
+  {
+    "VehicleID": "7e2ea83d-83f0-47af-99ad-8b79313ebac9",
+    "Latitude": 12.711960617998,
+    "Longitude": 32.127762168106,
+    "City": "Joseside",
+    "Speed": 158,
+    "Temperature": 49
+  }
+]

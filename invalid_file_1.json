@@ -1,0 +1,72 @@
+[
+  {
+    "VehicleID": "1a92b26a-b7d4-4849-966c-6e3296607b76",
+    "Latitude": -39.41172732582,
+    "Longitude": 18.770870176317,
+    "City": "Angelafort",
+    "Speed": 133
+  },
+  {
+    "VehicleID": "628109b1-90da-4384-9c77-967fd30d087f",
+    "Latitude": 26.661695691328,
+    "Longitude": -18.45089871672,
+    "City": "Torresport",
+    "Speed": 64
+  },
+  {
+    "VehicleID": "d6d78d81-67de-4f46-a0c4-0f0d87932f6e",
+    "Latitude": 87.879617199627,
+    "Longitude": -174.868983627705,
+    "City": "Alejandrohaven",
+    "Speed": 163
+  },
+  {
+    "VehicleID": "dca7b835-f6f1-4ef5-a448-5f31911d0f77",
+    "Latitude": -65.531087408,
+    "Longitude": 82.929459797772,
+    "City": "Joelburgh",
+    "Speed": 186
+  },
+  {
+    "VehicleID": "11695032-e0d1-4920-8196-eef2950f9e0b",
+    "Latitude": -52.06582110447,
+    "Longitude": 127.514503180161,
+    "City": "Robertport",
+    "Speed": 65
+  },
+  {
+    "VehicleID": "4c43d25c-0c04-4434-97a0-4922dfd7bb26",
+    "Latitude": 87.306231500514,
+    "Longitude": 65.473288545007,
+    "City": "Heathermouth",
+    "Speed": 198
+  },
+  {
+    "VehicleID": "ea9cc25e-0f4e-482a-9a38-db8692fcf80e",
+    "Latitude": -65.759953912192,
+    "Longitude": 2.901679303736,
+    "City": "Angelaland",
+    "Speed": 36
+  },
+  {
+    "VehicleID": "6b294e4b-4247-40a5-8ae4-fbb9d08aaa4d",
+    "Latitude": -4.101521570756,
+    "Longitude": -23.260955929585,
+    "City": "Mistyport",
+    "Speed": 157
+  },
+  {
+    "VehicleID": "77f80a0f-aaf8-4f18-bc2f-6cc21e34f625",
+    "Latitude": -31.389995255678,
+    "Longitude": 39.728126762966,
+    "City": "West Danielstad",
+    "Speed": 87
+  },
+  {
+    "VehicleID": "4e854434-7e99-41ac-ab8d-c4b143a825b6",
+    "Latitude": 60.742242858158,
+    "Longitude": -123.791966165164,
+    "City": "Sheliaton",
+    "Speed": 39
+  }
+]

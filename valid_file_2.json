@@ -1,0 +1,162 @@
+[
+  {
+    "VehicleID": "fafb960a-e71f-46bc-8807-03672a0012c4",
+    "Latitude": -2.434358695562,
+    "Longitude": -56.757455262476,
+    "City": "East Tommyhaven",
+    "Speed": 98,
+    "Temperature": 103
+  },
+  {
+    "VehicleID": "f007224f-5652-49de-b870-0a3809daa0cd",
+    "Latitude": 23.664939155303,
+    "Longitude": 82.614878904694,
+    "City": "Chrisville",
+    "Speed": 29,
+    "Temperature": 80
+  },
+  {
+    "VehicleID": "ff5d6667-c257-49d9-bd6d-35321e40c046",
+    "Latitude": -12.593304669776,
+    "Longitude": -2.392090979977,
+    "City": "Lake Ashleytown",
+    "Speed": 54,
+    "Temperature": 75
+  },
+  {
+    "VehicleID": "e609ed85-9bb7-43c3-812b-fe0637b0470d",
+    "Latitude": 26.338211254679,
+    "Longitude": 134.29717213404,
+    "City": "East Ryan",
+    "Speed": 19,
+    "Temperature": 93
+  },
+  {
+    "VehicleID": "e4659b0b-dcca-4054-82f6-76c0cd246c06",
+    "Latitude": 65.160592567225,
+    "Longitude": 29.969841919724,
+    "City": "Cummingsland",
+    "Speed": 67,
+    "Temperature": 105
+  },
+  {
+    "VehicleID": "5fc3aa5a-76c7-4531-8eaa-6af5e6e803da",
+    "Latitude": -67.821426230514,
+    "Longitude": -53.736549243808,
+    "City": "Williamsborough",
+    "Speed": 39,
+    "Temperature": -17
+  },
+  {
+    "VehicleID": "99d8cbbe-dd48-4ee0-84c7-2561ecd2bde9",
+    "Latitude": 35.142281819949,
+    "Longitude": -26.029211482894,
+    "City": "Angelfurt",
+    "Speed": 115,
+    "Temperature": 95
+  },
+  {
+    "VehicleID": "269b84c4-fbf0-4c22-aebd-28037a01e59c",
+    "Latitude": 70.363704097623,
+    "Longitude": -23.40396048934,
+    "City": "North Scottville",
+    "Speed": 185,
+    "Temperature": 88
+  },
+  {
+    "VehicleID": "a5d957bb-0a52-4932-901f-823f2477238c",
+    "Latitude": -9.958894757893,
+    "Longitude": 164.719278919751,
+    "City": "Harrisonborough",
+    "Speed": 131,
+    "Temperature": 16
+  },
+  {
+    "VehicleID": "880c6bc3-a91f-47f6-9d1d-7456f40f0985",
+    "Latitude": 81.17233847145,
+    "Longitude": 147.685768142025,
+    "City": "Lake Tanyaborough",
+    "Speed": 37,
+    "Temperature": 13
+  },
+  {
+    "VehicleID": "575b80da-9ca0-48bc-a5f7-2b74f0b28a2d",
+    "Latitude": -3.708226218035,
+    "Longitude": 85.862920979455,
+    "City": "West Vanessaborough",
+    "Speed": 71,
+    "Temperature": 76
+  },
+  {
+    "VehicleID": "88f749e5-88b6-4ca6-b552-ae7e8120c9be",
+    "Latitude": -60.319745718401,
+    "Longitude": 36.761300410209,
+    "City": "Meyershire",
+    "Speed": 181,
+    "Temperature": 99
+  },
+  {
+    "VehicleID": "08611313-eee1-4107-893e-571f4e71e395",
+    "Latitude": -46.954329571054,
+    "Longitude": 45.242897192149,
+    "City": "Laraville",
+    "Speed": 177,
+    "Temperature": 99
+  },
+  {
+    "VehicleID": "a90b9643-fed3-4838-b3c7-91b79d5250f2",
+    "Latitude": 6.511733758025,
+    "Longitude": -137.820833511416,
+    "City": "Lake Charles",
+    "Speed": 92,
+    "Temperature": 17
+  },
+  {
+    "VehicleID": "40bf9c1b-6c17-4962-adbb-625fea646e5b",
+    "Latitude": 74.295885917809,
+    "Longitude": 57.92163423881,
+    "City": "Port Crystal",
+    "Speed": 182,
+    "Temperature": 37
+  },
+  {
+    "VehicleID": "cd81de53-16d6-4080-a681-634fa09fabb2",
+    "Latitude": -69.466971242408,
+    "Longitude": -135.582140429498,
+    "City": "Catherineshire",
+    "Speed": 98,
+    "Temperature": 89
+  },
+  {
+    "VehicleID": "43e2327f-26c4-499f-bd05-31aea518e353",
+    "Latitude": 89.695155097786,
+    "Longitude": -138.552105211066,
+    "City": "New Sherri",
+    "Speed": 156,
+    "Temperature": 112
+  },
+  {
+    "VehicleID": "2ededc1b-c892-4fb7-beb0-e7dda75fc11f",
+    "Latitude": -45.152612289646,
+    "Longitude": 17.104064551343,
+    "City": "Port Jenniferfurt",
+    "Speed": 49,
+    "Temperature": -11
+  },
+  {
+    "VehicleID": "9b178dbe-b77f-463d-880f-81f5bcf5e5bd",
+    "Latitude": -63.848982201366,
+    "Longitude": 131.597504552778,
+    "City": "Stephanieside",
+    "Speed": 149,
+    "Temperature": 67
+  },
+  {
+    "VehicleID": "43fb81c8-8970-4066-8346-ffaf293becca",
+    "Latitude": 71.572448192854,
+    "Longitude": -22.085554318324,
+    "City": "Mcintyreburgh",
+    "Speed": 20,
+    "Temperature": 105
+  }
+]
